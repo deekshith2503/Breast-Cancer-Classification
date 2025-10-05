@@ -69,6 +69,3 @@ This project focuses on classifying breast cancer tumors as **malignant** or **b
 
 ---
 
-## 📬 Author
-**Deekshith Naik**  
-Feel free to connect on [LinkedIn](#) or check more projects on [GitHub](#).
